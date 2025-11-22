@@ -1,0 +1,49 @@
+{
+    "last_updated": "2025-11-22 23:56:31",
+    "source": "ForexFactory (Manual Input)",
+    "total_events": 6,
+    "events": [
+        {
+            "date": "2025-11-25",
+            "time": "15:30",
+            "currency": "PPI",
+            "event": "m/m",
+            "impact": "high"
+        },
+        {
+            "date": "2025-11-25",
+            "time": "15:30",
+            "currency": "PPI",
+            "event": "m/m",
+            "impact": "high"
+        },
+        {
+            "date": "2025-11-26",
+            "time": "02:30",
+            "currency": "CPI",
+            "event": "y/y",
+            "impact": "high"
+        },
+        {
+            "date": "2025-11-26",
+            "time": "15:30",
+            "currency": "GDP",
+            "event": "q/q",
+            "impact": "high"
+        },
+        {
+            "date": "2025-11-26",
+            "time": "15:30",
+            "currency": "PCE",
+            "event": "Price Index m/m",
+            "impact": "high"
+        },
+        {
+            "date": "2025-11-28",
+            "time": "15:30",
+            "currency": "GDP",
+            "event": "m/m",
+            "impact": "high"
+        }
+    ]
+}
